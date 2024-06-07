@@ -1,0 +1,26 @@
+{
+  "name": "empezando-node",
+  "version": "1.0.0",
+  "description": "Primeros ejercicios de Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aritzmmartinez/empezando-node.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "Aritz Martinez - aritzmmartinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aritzmmartinez/empezando-node/issues"
+  },
+  "homepage": "https://github.com/aritzmmartinez/empezando-node#readme",
+  "dependencies": {
+    "picocolors": "1.0.1"
+  }
+}
